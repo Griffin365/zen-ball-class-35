@@ -1,1 +1,2 @@
-# zen-ball-class-35
+# synchronousBallMovement
+Ball moving synchronously
